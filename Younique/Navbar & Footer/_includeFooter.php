@@ -11,10 +11,7 @@
     <div class="footer-left">
       <div class="hamburger-menu">
       </div>
-        
-      <div class="home">
-      </div>
-        
+
     </div>
     
     <div class="footer-center">
@@ -25,9 +22,6 @@
     
     <div class="footer-right">
       <div class="us">
-      </div>
-        
-      <div class="Account">
       </div>
         
     </div>
