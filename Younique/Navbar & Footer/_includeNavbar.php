@@ -9,17 +9,57 @@
 
   <div class="nav-bar">
     <div class="nav-bar-left">
-      <div class="hamburger-menu"></div>
-      <div class="home"></div>
+      <div class="hamburger-menu">
+          <div class="Drop-down-menu">
+  			<div class="hamburger-menu">
+    			    <div class="hamburger-menu-line"></div>
+			    <div class="hamburger-menu-line"></div>
+			    <div class="hamburger-menu-line"></div>
+		        </div>
+			<ul class="menu-items">
+			    <li><a href="#">Home</a></li>
+			    <li><a href="#">Bookings</a></li>
+			    <li><a href="#">Us</a></li>
+			    <li><a href="#">Account</a></li>
+			</ul>
+		</div>
+      </div>
+      <div class="home">
+          <div class="">
+              <a class="" href="../"></a>
+          </div>
+      </div>
+      <div class="Bookings">
+          <div class="">
+              <a class="" href="../"></a>
+          </div>
+      </div>
+        
     </div>
     
     <div class="nav-bar-enter">
-      <div class="title"></div>
+      <div class="title">
+          <div class="">
+              <a class="" href="../"> <h3 class=></h3>
+              </a>
+          </div>
+      </div>
     </div>
     
     <div class="nav-bar-right">
-      <div class="us"></div>
-      <div class="Account"></div>
+        <div class="empty-navbar-block">
+          <div class="">
+              <a class="" href="../"></a>
+          </div>
+      </div>
+      <div class="us">
+          <div class="">
+              <a class="" href="../"></a>
+          </div>
+      </div>
+      <div class="Account">
+        
+      </div>
     </div>
     
   </div>
