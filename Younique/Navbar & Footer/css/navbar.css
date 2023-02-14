@@ -117,19 +117,19 @@
 
 
 /*nav-bar-right*/
-.Design{
+.empty{
   grid-column-start:1;
   grid-column-end:2;
   display:grid;
 }
 
-.Forum{
+.Us{
   grid-column-start:2;
   grid-column-end:3;
   display:grid;
 }
 
-.Account{
+.account{
   grid-column-start:3;
   grid-column-end:4;
   display:grid;
