@@ -1,4 +1,4 @@
-.navbar{
+.nav-bar{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 1px;
@@ -81,18 +81,18 @@
   transform: translateY(0);
 }
 
-.Home{
+.home{
   grid-column-start:2;
   grid-column-end:3;
   display:grid;
 }
 
-.Home-link{
+.home-link{
   display:grid;
   text-align: center;
 }
 
-.shop{
+.bookings{
   grid-column-start:3;
   grid-column-end:4;
   display:grid;
@@ -101,8 +101,8 @@
 
 
 /*nav-bar-center*/
-.Title{
-
+.title{
+  display: grid;
 }
 .Title-link{
   display:grid;
@@ -178,6 +178,11 @@
   font-weight: bold;
   border-radius: 50%;
 }
+
+
+
+
+
 
 
 
