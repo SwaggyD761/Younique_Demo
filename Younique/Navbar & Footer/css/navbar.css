@@ -27,6 +27,40 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.nav-bar-link{
+  color: #888;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-bar-link :hover{
+  color: #00FFFF;
+  transform: scale(1.2);
+}
+
+.nav-bar-link ;active{
+  color: #2F4F4F;
+}
+
+
+.nav-bar-title-link{
+  color: Dark gray;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-bar-title-link :hover{
+  color: #00FFFF;
+  transform: scale(1.2);
+}
+
+.nav-bar-title-link ;active{
+  color: #2F4F4F;
+}
+
+
 
 /*nav-bar-left*/
 .Drop-down-menu{
@@ -104,7 +138,7 @@
 .title{
   display: grid;
 }
-.Title-link{
+.title-link{
   display:grid;
   content-align: center;
 }
@@ -123,7 +157,7 @@
   display:grid;
 }
 
-.Us{
+.us{
   grid-column-start:2;
   grid-column-end:3;
   display:grid;
