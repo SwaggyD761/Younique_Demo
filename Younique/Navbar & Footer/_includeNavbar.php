@@ -58,7 +58,7 @@
               <a class="nav-bar-link" href="../Us.php"></a>
           </div>
       </div>
-      <div class="Account">
+      <div class="account">
           <div class="profile-link">
 		<a href="#" class="profile-link-icon">
 			<img src="profile-picture.jpg" alt="Profile Picture">
