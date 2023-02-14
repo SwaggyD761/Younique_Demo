@@ -14,7 +14,7 @@
     </div>
     
     <div class="nav-bar-enter">
-      <div class=""></div>
+      <div class="title"></div>
     </div>
     
     <div class="nav-bar-right">
@@ -25,3 +25,10 @@
   </div>
 
 </html>
+
+
+
+
+
+
+
