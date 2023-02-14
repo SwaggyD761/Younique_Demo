@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <title>terra_crypto</title>
     <link rel="stylesheet" href="css/websiteStyle.css">
+    <script src="js/vanta-background.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
