@@ -1,5 +1,5 @@
 VANTA.CLOUDS2({
-  el: "#your-element-selector",
+  el: "container",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
