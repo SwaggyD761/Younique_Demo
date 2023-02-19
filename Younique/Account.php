@@ -24,7 +24,7 @@
         
 			</div>
 			<div class="active-bookings">
-				<div class="active-bookings"></div>
+				<div class="active-bookings-display"></div>
 				<div class="blank-area"></div>
 			</div>
 		</div>
