@@ -15,7 +15,6 @@
 			<div class=nav-bar>
 		
 				<?php
-			
 					include("Navbar&Footer/_includeNavbar.php")
 	        		?>
 			</div>
@@ -36,8 +35,7 @@
 		</div>
 	</div>
 					
-</body>
-			
+</body>		
 	<?php
 		include("Navbar&Footer/_includeFooter.php")
 	?>
