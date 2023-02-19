@@ -9,30 +9,36 @@
 </head>
 
 <body>
-	<div class=nav-bar>
-		<?php
-			include("Navbar&Footer/_includeNavbar.php")
-	        ?>
-	</div>
+	<div class="contianer">
 	
-	<div class="content">
-		<div class="carousel_area">
-			<?php
-				include("Carousel/_includeCarousel.php")
-			?>
-		</div>
-		<div class="service-buble">
-			<div class="nails">
-		        <div>
-			<div class="threading">
-		        <div>
-			<div class="waxing">
-		        <div>
-		<div>
+		<div class=nav-bar>
 		
-	</div>
+			<?php
+			
+				include("Navbar&Footer/_includeNavbar.php")
+	        	?>
+		</div>
 	
+		<div class="content">
+			<div class="carousel_area">
+				<?php
+					include("Carousel/_includeCarousel.php")
+				?>
+			</div>
+			<div class="service-buble">
+				<div class="nails">
+		        	<div>
+				<div class="threading">
+			        <div>
+				<div class="waxing">
+			        <div>
+			<div>
+		
+		</div>
+	</div>
+					
 </body>
+					
 	<?php
 		include("Navbar&Footer/_includeFooter.php")
 	?>
