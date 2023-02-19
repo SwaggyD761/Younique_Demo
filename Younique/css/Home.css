@@ -1,0 +1,60 @@
+
+body{
+  display: grid;
+  margin: 0px;
+}
+
+.container{
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr ;
+	
+}
+
+.nav-bar{
+  grid-row-start:1;
+  grid-row-end:2;
+  display: grid;
+}
+
+.content{
+	grid-row-start: 2;
+  grid-row-end: 6;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;	
+
+}
+	.carousel-area{
+    grid-row-start:1;
+    grid-row-end: 4;
+    display: grid;
+	}
+
+
+	.service-bubble{
+    grid-row-start: 4;
+    grid-row-end: 6;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+	}
+    .nails{
+      grid-row-start: 1;
+      grid-row-end: 2;
+    }
+    .threading{
+      grid-row-start: 2;
+      grid-row-end: 3;
+    }
+    .waxing{
+      grid-row-start: 3;
+      grid-row-end: 4;
+    }
+
+
+
+
+
+
+
+
+
+
