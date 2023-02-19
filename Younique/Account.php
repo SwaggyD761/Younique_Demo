@@ -11,14 +11,14 @@
 <body>
 	<div class="contianer">
 	
-		<div class=nav-bar>
+		<div class="nav-bar">
 			<?php
 				include("Navbar&Footer/_includeNavbar.php")
 	        	?>
 		</div>
 	
 		<div class="content">
-			<div class="carousel-area">
+			<div class="user-details-and-history">
 				<div class="user-details"></div>
 				<div class="previous-bookings"></div>
         
