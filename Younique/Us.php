@@ -10,32 +10,28 @@
 
 <body>
 	<div class="contianer">
-	
-	
-			<div class="nav-bar">
+		<div class="nav-bar">
+			<?php
+			include("Navbar&Footer/_includeNavbar.php")
+			?>
+		</div>
 		
-				<?php
+		<div class="content">
+			<div class="slide-show">
+				<div class=""></div>
+			</div>
 			
-					include("Navbar&Footer/_includeNavbar.php")
-	      ?>
+			<div class="bio-adnd-contact-us">
+				<div class="bio"></div>
+				<div class="contact-us"></div>
 			</div>
-    
-    	<div class="content">
-
-				<div class="slide-show">
-					<div class=></div>
-		    <div>
-				<div class="bio-adnd-contact-us">
-				<div>
+			
+		</div>
 		
-			</div>
-
 	</div>
-					
+	
 </body>
-			
 	<?php
-		include("Navbar&Footer/_includeFooter.php")
+				include("Navbar&Footer/_includeFooter.php")
 	?>
-
 </html>
