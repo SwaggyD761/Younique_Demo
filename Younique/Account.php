@@ -18,7 +18,7 @@
 		</div>
 	
 		<div class="content">
-			<div class="carousel_area">
+			<div class="carousel-area">
 				<div class="user-details"></div>
 				<div class="previous-bookings"></div>
         
