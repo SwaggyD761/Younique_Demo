@@ -12,7 +12,7 @@
 	<div class="contianer">
 	
 	
-			<div class=nav-bar>
+			<div class="nav-bar">
 		
 				<?php
 			
