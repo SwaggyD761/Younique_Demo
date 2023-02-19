@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>terra_crypto</title>
-    <link rel="stylesheet" href="css/websiteStyle.css">
+    <link rel="stylesheet" href="css/signupStyle.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 	
