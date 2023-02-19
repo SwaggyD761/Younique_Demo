@@ -17,12 +17,12 @@
 		</div>
 	
 		<div class="content">
-			<div class="carousel_area">
+			<div class="carousel-area">
 				<?php
 					include("Carousel/_includeCarousel.php")
 				?>
 			</div>
-			<div class="service-buble">
+			<div class="service-bubble">
 				<div class="nails">
 		        	<div>
 				<div class="threading">
