@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>terra_crypto</title>
-    <link rel="stylesheet" href="css/websiteStyle.css">
+    <link rel="stylesheet" href="css/usStyle.css">
     <script src="js/vanta-background.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -12,7 +12,7 @@
 	<div class="contianer">
 		<div class="nav-bar">
 			<?php
-			include("Navbar&Footer/_includeNavbar.php")
+				include("Navbar&Footer/_includeNavbar.php")
 			?>
 		</div>
 		
@@ -32,6 +32,6 @@
 	
 </body>
 	<?php
-				include("Navbar&Footer/_includeFooter.php")
+		include("Navbar&Footer/_includeFooter.php")
 	?>
 </html>
