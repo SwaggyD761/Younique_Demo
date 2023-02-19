@@ -15,35 +15,36 @@
 			</div>
 			
 			<div class="form-area">
-				<form class="register-form" method="POST" action="">
+				<form class="register-form" method="POST" action="_registerUser.php">
 					<div class="register-data-entry">
 						<div class="name-entry">
 							<div class="label"></div>
 							<div class="input"></div>
 						</div>
 						<div class="surname-entry">
-								<div class="label"></div>
-								<div class="input"></div>
+							<div class="label"></div>
+							<div class="input"></div>
 						</div>
 						<div class="email-entry">
-								<div class="label"></div>
-								<div class="input"></div>
+							<div class="label"></div>
+							<div class="input"></div>
 						</div>
 						<div class="cell-number-entry">
-								<div class="label"></div>
-								<div class="input"></div>
+							<div class="label"></div>
+							<div class="input"></div>
 						</div>
 						<div class="password-entry">
-								<div class="label"></div>
-								<div class="input"></div>
+							<div class="label"></div>
+							<div class="input"></div>
 						</div>
 						<div class="confirm-password-entry">
-								<div class="label"></div>
-								<div class="input"></div>
+							<div class="label"></div>
+							<div class="input"></div>
 						</div>
 						
 						<div class="form-submit-button">
-								<div class="submit-button"></div>
+							<div class="submit-button">
+							</div>
 						</div>
 					</div>
 				</form>
