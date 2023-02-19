@@ -11,15 +11,14 @@
 <body>
 	<div class="contianer">
 	
-		<div class=nav-bar>
-		
-			<?php
-			
-				include("Navbar&Footer/_includeNavbar.php")
-	        	?>
-		</div>
-	
 		<div class="content">
+			<div class=nav-bar>
+		
+				<?php
+			
+					include("Navbar&Footer/_includeNavbar.php")
+	        		?>
+			</div>
 			<div class="carousel_area">
 				<?php
 					include("Carousel/_includeCarousel.php")
