@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="content">
 	
-			<div class="login-area">
+			<div class="login-display">
 		
 				<div class="Login-title">
 					<h2>Login</h2>
