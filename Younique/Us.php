@@ -22,9 +22,10 @@
     
     	<div class="content">
 
-				<div class="service-buble">
+				<div class="slide-show">
+					<div class=></div>
 		    <div>
-				<div class="waxing">
+				<div class="bio-adnd-contact-us">
 				<div>
 		
 			</div>
