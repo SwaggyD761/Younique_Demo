@@ -1,0 +1,69 @@
+body{
+  display: grid;
+	margin: 0px;
+}
+
+.container{
+   display: grid;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr ;
+	
+}
+
+.nav-bar{
+  grid-row-start:1;
+	grid-row-end:2;
+	display: grid;
+}
+
+.content{
+	grid-row-start: 2;
+	grid-row-end: 6;
+	display: grid;
+	grid-template-columns: 1fr 1fr;	
+
+}
+
+   .user-details-and-history{
+     grid-column-start: 1;
+		 grid-column-end: 2;
+		 background: light slate gray;
+		 display: grid;
+		 grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+		 
+   }
+      .user-details{
+        grid-row-start: 1;
+				grid-row-end: 2;
+				display: grid;
+      }
+      .previous-bookings{
+				grid-row-start: 2;
+				grid-row-end: 6;
+        display: grid;
+      }
+
+
+   .active-bookings{
+		 grid-column-start: 2;
+		 grid-column-end: 3;
+		 display: grid;
+		 grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+		 
+		 background: light gray;
+      
+   }
+      .active-bookings-display{
+				grid-row-start: 1;
+		 		grid-row-end: 4;
+		 		display: grid;
+         
+      }
+
+      .blank-area{
+        grid-row-start: 4;
+		 		grid-row-end: 6;
+		 		display: grid;
+
+      }
+
+
