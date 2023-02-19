@@ -12,32 +12,21 @@
 	<div class="contianer">
 	
 		<div class=nav-bar>
-		
 			<?php
-			
 				include("Navbar&Footer/_includeNavbar.php")
 	        	?>
 		</div>
 	
 		<div class="content">
 			<div class="carousel_area">
-				<div class="user-details">
-				
-			  </div>
-        
-        <div class="previous-bookings">
-				
-			  </div>
+				<div class="user-details"></div>
+				<div class="previous-bookings"></div>
         
 			</div>
 			<div class="active-bookings">
-				<div class="active-bookings">
-		    <div>
-				<div class="blank-area">
-			  <div>
-				
-			<div>
-		
+				<div class="active-bookings"></div>
+				<div class="blank-area"></div>
+			</div>
 		</div>
 	</div>
 					
